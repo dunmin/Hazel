@@ -1,8 +1,9 @@
 #pragma once
 
 // 让使用Hazel的app只要include <Hazel.h>即可
-#include "Hazel/Application.h"
 #include "stdio.h"
+#include "Hazel/Application.h"
+#include "Hazel/Log.h"
 
 // ---------Entry Point-----------
 #include "Hazel/EntryPoint.h"
