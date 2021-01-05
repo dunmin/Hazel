@@ -1,8 +1,6 @@
 #pragma once
+#include "hzpch.h"
 #include "Hazel/core.h"
-
-#include <string>
-#include <functional>
 
 namespace Hazel {
 	// 目前Hazel的event是blocking模式，就是事件发生了必须立即处理
